@@ -11,11 +11,11 @@ If you do not have a link yet, leave that section as an empty list: []
 */
 
 const studentProfile = {
-  name: "Your Name",
+  name: "Sinchana Nirguna Joshi",
 
   tagline: "DREAM-High Scholar | Computational Biology Portfolio",
 
-  bio: "Write a short paragraph about yourself here. You might include your scientific interests, what you hope to learn in DREAM-High, and something you are excited to explore in computational biology.",
+  bio: "I am a high school student passionate about biomedical research and the intersection of medicine and technology. My scientific interests include cancer biology, neurodegenerative diseases, and the use of artificial intelligence to improve disease detection and patient outcomes. Through my research experiences, I hope to develop innovative solutions that bridge scientific discovery and clinical care.",
 
   /*
   Optional photo:
@@ -39,11 +39,11 @@ const studentProfile = {
   rpubs: [
     {
       title: "Introduction to R",
-      url: "https://rpubs.com/"
+      url: "https://rpubs.com/DREAM-High/1446545"
     },
     {
       title: "Finding Patterns with Heatmaps",
-      url: "https://rpubs.com/"
+      url: "https://rpubs.com/DREAM-High/1446073"
     }
   ],
 
@@ -65,7 +65,7 @@ const studentProfile = {
   github: [
     {
       title: "My GitHub Profile",
-      url: "https://github.com/"
+      url: "https://github.com/sinchujoshi24-ship-it"
     }
   ]
 };
